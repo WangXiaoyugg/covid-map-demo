@@ -1,5 +1,5 @@
 # covidmap
-
+use vue3 and echarts
 ## Project setup
 ```
 npm install
